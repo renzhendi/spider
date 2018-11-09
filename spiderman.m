@@ -5,6 +5,7 @@ warning off;
 %%%%%%%%%%%%%%
 % parameters %
 %%%%%%%%%%%%%%
+home_page = 'https://www.dianping.com/shanghai/ch70/g27761';
 page_total = 50;
 excel_name = 'reborn';
 
